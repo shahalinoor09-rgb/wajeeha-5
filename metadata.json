@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Tour Guide",
+  "description": "An interactive AI-powered travel assistant that provides personalized itineraries, local insights, and real-time location-based recommendations using Google Maps and Search grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
